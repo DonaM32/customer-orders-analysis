@@ -1,32 +1,26 @@
-# Customer Orders Analysis
+📈 Dashboard Overview
+Here’s a snapshot of the analysis:
+<img width="1388" alt="image" src="https://github.com/user-attachments/assets/eb684b0c-45b5-45ca-86e4-bead81c75287" />
 
-This project analyzes customer order data using Microsoft Excel. It includes key sales performance metrics visualized through PivotTables.
+📊 Key Insights
+* Top Customer: John Doe (Highest Revenue)
+* Top City: Chicago (Highest Orders)
+* Most Active Month: January 2024
 
-## Key Features
-- **Total Revenue by Customer**: Sum of total sales by customer.
-- **Number of Orders by Customer**: Count of orders per customer.
-- **Monthly Revenue Analysis**: Sales trends month by month.
-- **City-wise Customer Revenue**: Total revenue generated in each city.
+📂 Files Included
+* customer_orders.xlsx — Excel file with cleaned data, pivot tables
+* dashboard_screenshot.png — Screenshot of customer orders summary
 
-## Tools Used
-- Microsoft Excel
-- PivotTables
-- Pivot Charts
+🚀 Next Steps
+I plan to enhance this analysis by:
+* Adding customer lifetime value (CLV) metrics
+* Building trend analysis across multiple years
 
-## Data Columns
-- Order ID
-- Customer Name
-- Order Date
-- Product
-- Quantity
-- Unit Price
-- City
-- Total Price
-
-## Preview
-*<img width="1379" alt="image" src="https://github.com/user-attachments/assets/0f26237c-2ff2-47a0-ba60-dff30776b17b" />*
+✅ How To Use
+* Download the Excel file.
+* Explore the pivot tables and charts.
+* Review key customer behavior insights!
 
 ---
 
-**Created as part of my Data Analytics portfolio.**
 
