@@ -1,6 +1,7 @@
 📈 Dashboard Overview
 Here’s a snapshot of the analysis:
-<img width="1388" alt="image" src="https://github.com/user-attachments/assets/eb684b0c-45b5-45ca-86e4-bead81c75287" />
+<img width="1040" alt="image" src="https://github.com/user-attachments/assets/43063313-1070-47bd-9943-c159ba251bf8" />
+
 
 📊 Key Insights
 * Top Customer: John Doe (Highest Revenue)
